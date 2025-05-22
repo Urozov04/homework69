@@ -47,7 +47,7 @@ class ClassClass {
 
     @LogMethod
     instruct(@LogParam name: string = "Barcelona") {
-        console.log(`${name} instruct us`);
+        console.log(`${name} is my club`);
     }
 
     @LogAccessor
